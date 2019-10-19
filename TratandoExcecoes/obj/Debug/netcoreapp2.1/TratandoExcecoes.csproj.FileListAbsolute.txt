@@ -1,0 +1,10 @@
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\bin\Debug\netcoreapp2.1\TratandoExcecoes.deps.json
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\bin\Debug\netcoreapp2.1\TratandoExcecoes.runtimeconfig.json
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\bin\Debug\netcoreapp2.1\TratandoExcecoes.runtimeconfig.dev.json
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\bin\Debug\netcoreapp2.1\TratandoExcecoes.dll
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\bin\Debug\netcoreapp2.1\TratandoExcecoes.pdb
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\obj\Debug\netcoreapp2.1\TratandoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\obj\Debug\netcoreapp2.1\TratandoExcecoes.AssemblyInfoInputs.cache
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\obj\Debug\netcoreapp2.1\TratandoExcecoes.AssemblyInfo.cs
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\obj\Debug\netcoreapp2.1\TratandoExcecoes.dll
+C:\Users\heliojunior\Documents\dotNet\TratandoExcecoes\TratandoExcecoes\obj\Debug\netcoreapp2.1\TratandoExcecoes.pdb
